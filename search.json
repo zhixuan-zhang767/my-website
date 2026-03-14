@@ -2,15 +2,36 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "我的个人网站",
+    "title": "我的个人主页",
     "section": "",
-    "text": "��# \u0011b�v*N�N;Nu�"
+    "text": "姓名：张恺\n学号：2025303120096\n专业：资源利用与植物保护\n兴趣：骑自行车 听音乐 阅读"
+  },
+  {
+    "objectID": "index.html#关于我",
+    "href": "index.html#关于我",
+    "title": "我的个人主页",
+    "section": "",
+    "text": "姓名：张恺\n学号：2025303120096\n专业：资源利用与植物保护\n兴趣：骑自行车 听音乐 阅读"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "我的个人网站",
+    "title": "关于我",
     "section": "",
-    "text": "��# sQ�N\u0011b"
+    "text": "学校：华中农业大学\n专业：资源利用与植物保护\n\n\n\n\n\nGitHub: zhixuan-zhang767\nEmail: 3197093825@qq.com"
+  },
+  {
+    "objectID": "about.html#教育背景",
+    "href": "about.html#教育背景",
+    "title": "关于我",
+    "section": "",
+    "text": "学校：华中农业大学\n专业：资源利用与植物保护"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "",
+    "text": "GitHub: zhixuan-zhang767\nEmail: 3197093825@qq.com"
   }
 ]
